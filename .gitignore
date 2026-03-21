@@ -31,16 +31,16 @@ Thumbs.db
 dist/
 build/
 
-# Jupyter Notebook checkpoints (if you used notebooks)
+# Jupyter Notebook checkpoints 
 .ipynb_checkpoints/
 
-# Models (optional if you don’t want large files in repo)
+# Models 
 model/*.joblib
 model/*.pkl
 
-# Streamlit cache (optional)
+# Streamlit cache 
 .streamlit/
 
-# Docker (optional)
+# Docker 
 *.dockerfile
 docker-compose.override.yml
